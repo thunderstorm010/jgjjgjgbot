@@ -1,0 +1,1 @@
+worker: java -jar zirvebot.jar
